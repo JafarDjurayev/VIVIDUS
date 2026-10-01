@@ -1,0 +1,37 @@
+{
+    "redhat.telemetry.enabled": true,
+    "gpt-code.apiKey": "What is the Ielts",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Night Owlet",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "none",
+    "git.autofetch": true,
+    "extensions.ignoreRecommendations": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.editorAssociations": {
+        "*.jsx": "default"
+    },
+    "python.createEnvironment.trigger": "off",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.largeFileOptimizations": false,
+    "[markdown]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    },
+    "workbench.iconTheme": "flow-dim",
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "expand",
+    "liveServer.settings.donotVerifyTags": true,
+    "vividus.project.javaHome": "C:\\Users\\Jafar\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.12.101-hotspot",
+    "java.jdt.ls.java.home": "C:\\Users\\Jafar\\AppData\\Local\\Programs\\Eclipse Adoptium\\jdk-21.0.12.101-hotspot"
+}
